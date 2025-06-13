@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [[Github](https://github.com/Manidatta1)]([Github](https://github.com/Manidatta1))
 
-- 📫 How to reach me **anumandlamanidatta17@gmail.com**
 
 - 📄 Know about my experiences [[Resume](https://manidatta1.github.io/Portfolio/assets/Manidatta.pdf)]([Resume](https://manidatta1.github.io/Portfolio/assets/Manidatta.pdf))
 
