@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is [Your Name] and I'm a [Your Role], from [Your Country]</h2>
+<h2 align="left">Hi 👋! I’m ManiDatta</h2>
+
+<p align="left">
+  I'm a data science enthusiast pursuing my Master’s at the University of Colorado Boulder. I enjoy turning real-world problems into data-driven solutions using machine learning, statistics, and software engineering.<br><br>
+  My projects span audio risk detection, student performance analysis, trend forecasting, and image-based question answering. I thrive on collaboration, continuous learning, and building models that drive real impact.
+</p>
+
 
 ###
 
