@@ -5,10 +5,10 @@
 
 - 🤝 I’m looking to collaborate on **AI-driven platforms**
 
-- 👨‍💻 All of my projects are available at [[Github](https://github.com/Manidatta1)]([Github](https://github.com/Manidatta1))
+- 👨‍💻 All of my projects are available at ([Github](https://github.com/Manidatta1))
 
 
-- 📄 Know about my experiences [[Resume](https://manidatta1.github.io/Portfolio/assets/Manidatta.pdf)]([Resume](https://manidatta1.github.io/Portfolio/assets/Manidatta.pdf))
+- 📄 Know about my experiences [([Resume](https://manidatta1.github.io/Portfolio/assets/Manidatta.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
