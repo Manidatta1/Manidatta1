@@ -14,7 +14,7 @@ Data Science graduate student at the University of Colorado Boulder, passionate 
 
 ### 🔍 About Me
 - 🎓 Pursuing a **Master’s in Data Science** at the **University of Colorado Boulder**
-- 💼 Seeking **Data Science, Machine Learning, AI, or Research Internship Opportunities**
+- 💼 Seeking **Data Science, Machine Learning, AI, or Research Full time Opportunities**
 - 🤝 Open to collaborating on **AI-driven platforms and impactful data projects**
 - 👨‍💻 Explore my work on [GitHub](https://github.com/Manidatta1)
 - 📄 View my [Resume](https://drive.google.com/file/d/1gHAC5DfJExwMU0BCJbqYbxA5X3DM8rxA/view)
