@@ -6,7 +6,6 @@ Data Science graduate student at the University of Colorado Boulder, passionate 
 <p align="center">
   <a href="mailto:anumandlamanidatta17@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/manidatta/">LinkedIn</a> •
-  <a href="https://github.com/Manidatta1">GitHub</a> •
   <a href="https://manidatta1.github.io/Portfolio/assets/Manidatta.pdf">Resume</a>
 </p>
 
